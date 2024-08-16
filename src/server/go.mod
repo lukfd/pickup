@@ -1,0 +1,5 @@
+module github.com/lukfd/pickup/src/server
+
+go 1.23.0
+
+require github.com/julienschmidt/httprouter v1.3.0
